@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuppyBad
 - 👀 I’m interested in ... Cyber Security and Penetration Testing
-- 🌱 I’m currently learning ... C 
+- 🌱 I’m currently learning ... Race Condition exploit development 
 - 💞️ I’m looking to collaborate on ... Cryptography challenges and binary exploitation
 - 📫 How to reach me ... DuppyBwoy@proton.me
 
