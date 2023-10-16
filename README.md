@@ -1,4 +1,4 @@
-<h1 align="center">Here lies Duppy</h1>
+<h1 align="center"></h1>
 <h3 align="center">Cybersec student, formerly studied mathematics and physics (eg; clueless theoretician)</h3>
 
 
@@ -11,4 +11,5 @@
 
 ### Interests:
 - Cryptography
-- UI Design
+- RevEng
+- 
