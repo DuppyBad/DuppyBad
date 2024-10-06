@@ -6,10 +6,12 @@
 ### Languages I use:
 - Python
 - Rust
+- Nix
 - C# (Rarely)
 
 
 ### Interests:
 - Cryptography
-- RevEng
-- 
+- Reverse Engineering
+- Infrastructre
+- Virtualisation
