@@ -8,6 +8,7 @@
 - Rust
 - Nix
 - C# (Rarely)
+- Haskell (Even Rarer)
 
 
 ### Interests:
