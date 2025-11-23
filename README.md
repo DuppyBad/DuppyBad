@@ -1,9 +1,9 @@
-# Hi o/
+# Welcome
 
 ![Static Badge](https://img.shields.io/badge/Built%20Using%20Nix-grey?style=for-the-badge&logo=nixos&logoColor=%23cba6f7)
 
 I'm Duppy(also known as _Kyrios_ in some corners of the internet). I am very
-interested in how the magic of modern machinery functions, and to that end, I
+interested in the magic of modern machinery, more specifically, how it all works. Perhaps unsurprisingly, I
 study Cybersecurity at University in order to break (and consequently secure)
 many different forms of computers. Outside of my studies, my hobbies focus
 mainly on competing in CTFs, teaching others, and learning all I can about the
@@ -21,11 +21,9 @@ Languages(Ranked in ability from top to bottom):
 
 - Python
 - Rust
-- C#
-- Typescript
-- Nix
 - C
-- C++
+- Typescript
+- C#
 - Go
 - Haskell
 
@@ -35,4 +33,3 @@ Tooling I use frequently:
 - Docker
 - Neovim
 - Typst
-- Garnix
